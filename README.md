@@ -4,10 +4,10 @@ I2C meteorological break-out board
 
 Introduction
 ------------
-This an I2C board with selected sensors for selected within the RC3 part
-of WIMEA project. WIMEA-ICT Research Component 3 Automated Weather Station 
-(AWS) development and network densification in Africa. This work is funded
-by the Norad. 
+This I2C board uses selected sensors by the WIMEA project. WIMEA-ICT 
+Research Component 3 has focus on Automated Weather Station  (AWS) 
+development and network densification in Africa. The work is funded 
+by Norad. 
 
 The idea is challenge existing technologies in price performance aspect
 by using the latest research and products and combining expertise in
@@ -16,11 +16,11 @@ various fields.
 The work herein describes a break-out board with selected sensors to be
 used as an first approximation for prototyping, verification and testing.
 The results are open and can be used in various project as well as being 
-a starting point for other. Work includes:
+a starting point for other. The work includes:
 
-* Senors selection and testing.
-* PCB design.
-* Some comparison.
+* Sensor selection and testing
+* PCB design
+* Some comparison
 
 The selection
 -------------
@@ -39,10 +39,10 @@ Robert Olsson also very useful information has come form the paparazzi
 project. Special thanks to Martin Mueller for testing pressure sensors.
 
 
-The board
----------
-The break-out board was designed with the gEDA PCB toolchain. Major componetsntsgschem and pcb.
-
+The PCB
+--------
+The break-out board was designed with the gEDA PCB toolchain. Major components
+gschem and pcb. I2C bus is available on many platforms, Arduino, Raspberry Pi and is available on most microcontrollers.
 
 
 References
