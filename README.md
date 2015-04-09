@@ -42,8 +42,11 @@ project. Special thanks to Martin Mueller for testing pressure sensors.
 The PCB
 --------
 The break-out board was designed with the gEDA PCB toolchain. Major components
-gschem and pcb. I2C bus is available on many platforms, Arduino, Raspberry Pi and is available on most microcontrollers.
+gschem and pcb. I2C bus is available on many platforms, Arduino, Raspberry Pi and is available on most microcontrollers. Included:
 
+* gEDA schematics and resource files
+* gerber files for fabrication
+* various pictures
 
 References
 -----------
