@@ -1,0 +1,17 @@
+
+CAP close chip
+Footprint/Size
+
+MCP3422?
+ADS7924IRTER? Single ended
+
+10k ALL 0805
+
+Better Routing GND/VCC
+
+5 pin - 4 pin footprint
+
+CH3 not differential...
+
+Polarity protection
+IRQ pin 
