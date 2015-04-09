@@ -34,9 +34,8 @@ http://www.meas-spec.com/downloads/MS5611-01BA03.pdf
 MCP3424 (4 channel. Hi-Res 18-bit ΔΣ ADC with Differential Input)
 http://ww1.microchip.com/downloads/en/DeviceDoc/22088b.pdf
 
-The selected sensors are proposed by Joachim Reuder, Björn Pehrson, 
-Robert Olsson also very useful information has come form the paparazzi
-project. Special thanks to Martin Mueller for testing pressure sensors.
+The selected sensors are proposed by Joachim Reuder, Björn Pehrson, Robert 
+Olsson. Very useful information has come form the paparazzi project and special thanks to Martin Mueller for testing the pressure sensors.
 
 
 The PCB
