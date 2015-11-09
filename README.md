@@ -22,16 +22,16 @@ a starting point for other. The work includes:
 * PCB design
 * Some comparison
 
-The selection
--------------
+The sensor selection
+--------------------
 
-SHT25 (Sensiron)  Temp, RH and via calculation AH, temp dew-point, heat index.
+* SHT25 (Sensiron)  Temp, RH and via calculation AH, temp dew-point, heat index.
 http://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/Humidity/Sensirion_Humidity_SHT25_Datasheet_V3.pdf
 
-MS5611 (Measurements Specialists) Atmospheric Pressure
+* MS5611 (Measurements Specialists) Atmospheric Pressure
 http://www.meas-spec.com/downloads/MS5611-01BA03.pdf
 
-MCP3424 (4 channel. Hi-Res 18-bit ΔΣ ADC with Differential Input)
+* MCP3424 (4 channel. Hi-Res 18-bit ΔΣ ADC with Differential Input)
 http://ww1.microchip.com/downloads/en/DeviceDoc/22088b.pdf
 
 The selected sensors are proposed by Joachim Reuder, Björn Pehrson, Robert 
